@@ -58,4 +58,4 @@ Possible improvements for this project include:
 
 ## Acknowledgements
 
-This project was completed as part of the learning path provided by The Odin Project.
+This project was completed as part of the "foundations" learning path provided by The Odin Project.
